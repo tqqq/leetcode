@@ -2,7 +2,7 @@
 import os
 import sys
 
-template = '''# coding=uf-8
+template = '''# coding=utf-8
 
 
 class Solution(object):
